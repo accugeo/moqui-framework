@@ -1,3 +1,6 @@
+.project
+.classpath
+.vscode/
 # separate addons file to add/override components
 myaddons.xml
 
